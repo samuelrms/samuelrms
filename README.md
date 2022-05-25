@@ -2,8 +2,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/samuelrms">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samuelrms&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=samuelrms&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div align="center"><br>
@@ -29,6 +29,6 @@
   
 - 🔭 At the moment I'm working with Web and Mobile
 - 🌱 I'm currently learning TS and Flutter
-- 📫 How to reach me: ...
+- 📫 How to reach me: samuel
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "Esse pavê ai é 'pavê' ou pra comer?"
