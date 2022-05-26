@@ -34,4 +34,6 @@
 <h2>- ⚡ Fun fact: "Esse pavê ai é 'pavê' ou pra comer?"</h2>
   </div>
   
-    ![Snake animation](https://github.com/samuelrms/samuelrms/blob/output/github-contribution-grid-snake.svg)
+  <div>
+      ![Snake animation](https://github.com/samuelrms/samuelrms/blob/output/github-contribution-grid-snake.svg)
+  </div>
