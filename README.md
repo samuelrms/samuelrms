@@ -40,7 +40,7 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=samuelrms&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelrms&theme=merko&hide_border=false)
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="samuelrms" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="samuelrms" />
 </div>
 
 ---
