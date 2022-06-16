@@ -7,7 +7,7 @@
 <h3>- 🌱 I'm currently learning TS and Flutter</h3>
 <h3>- 📫 How to reach me: samuelaoliveiraramos@gmail.com</h3>
 <h3>- 😄 Pronouns: He/His</h3>
-<h3>- ⚡ Fun fact: "Esse pavê ai é 'pavê' ou pra comer?"</h3>
+<h3>- ⚡ Fun fact: "The original name for the search engine Google was Backrub. It was renamed Google after the googol, which is the number one followed by 100 zeros."</h3>
   </div>
   
   ---
@@ -40,7 +40,7 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=samuelrms&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelrms&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="samuelrms" />
 </div>
 
 ---
