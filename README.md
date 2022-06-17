@@ -1,6 +1,10 @@
 # Hi i'm front-end developer
 
 
+[![](https://visitcount.itsvg.in/api?id=samuelrms&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
+---
+
 ### 💫About Me :
 <div align="center" >
     <h3> - 🔭 At the moment I'm working with Web and Mobile </h3>
@@ -55,10 +59,9 @@
 ---
 
 <div align="left">
-  
-  [![](https://visitcount.itsvg.in/api?id=samuelrms&icon=3&color=8)](https://visitcount.itsvg.in)
   <h3><a href="https://skyline.github.com/samuelrms/2022">https://skyline.github.com/samuelrms/2022</a></h3>
-  </div>
+</div>
+
   
   ---
   
