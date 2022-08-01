@@ -1,5 +1,6 @@
 # Hi i'm front-end developer
 
+<img src="https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png" align="right"/>
 
 [![](https://visitcount.itsvg.in/api?id=samuelrms&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
@@ -12,7 +13,9 @@
 <h3>- 📫 How to reach me: samuelaoliveiraramos@gmail.com</h3>
 <h3>- 😄 Pronouns: He/His</h3>
 <h3>- ⚡ Fun fact: "The original name for the search engine Google was Backrub. It was renamed Google after the googol, which is the number one followed by 100 zeros."</h3>
-  </div>
+</div>
+
+<br/>
   
   ---
   
