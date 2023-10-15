@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png" align="right"/>
 
-[![](https://visitcount.itsvg.in/api?id=samuelrms&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samuelrms&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
