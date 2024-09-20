@@ -25,7 +25,7 @@ I am a highly skilled full-stack developer with a passion for building modern, s
 - **Backend**: Node.js, NestJS, Express
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, Git, CI/CD, Kubernetes (basic)
-- **Mobile Development**: React Native, Flutter (learning)
+- **Mobile Development**: React Native, Flutter
 - **Testing**: Jest, Cypress, React Testing Library
 
 I have a proven track record of working on diverse projects, from frontend-heavy applications to robust backend architectures. My projects focus on performance, user experience, and code scalability, often integrating cloud services and containerization for efficient deployment.
