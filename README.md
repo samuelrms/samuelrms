@@ -3,7 +3,7 @@
 
 ### Full Stack Developer | Specialized in Scalable Web and Mobile Solutions
 
-I am a highly skilled full-stack developer with a passion for building modern, scalable web and mobile applications. With deep knowledge in **JavaScript, TypeScript, React, Node.js, and Docker**, I strive to deliver high-performance, clean, and maintainable code. Currently expanding my expertise in **TypeScript** and **Flutter** to further enhance my contributions to the tech world.
+I am a highly skilled full-stack developer with a passion for building modern, scalable web and mobile applications. With deep knowledge in **JavaScript, TypeScript, React, Node.js, and Docker**, I strive to deliver high-performance, clean, and maintainable code.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png" alt="Profile Image"/>
