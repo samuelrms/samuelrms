@@ -1,94 +1,100 @@
-# Hi i'm front-end developer
 
-<img src="https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png" align="right"/>
+# Hi there 👋, I'm Samuel Ramos
 
-[![](https://visitcount.itsvg.in/api?id=samuelrms&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+### Full Stack Developer | Specialized in Scalable Web and Mobile Solutions
+
+I am a highly skilled full-stack developer with a passion for building modern, scalable web and mobile applications. With deep knowledge in **JavaScript, TypeScript, React, Node.js, and Docker**, I strive to deliver high-performance, clean, and maintainable code. Currently expanding my expertise in **TypeScript** and **Flutter** to further enhance my contributions to the tech world.
+
+![Profile Image](https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=samuelrms&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/samuelrms) 
+[![GitHub Followers](https://img.shields.io/github/followers/samuelrms?label=Followers&style=social)](https://github.com/samuelrms)
+
+---
+
+## 🌟 Expertise:
+
+- **Frontend**: React, Next.js, Tailwind CSS, Styled Components
+- **Backend**: Node.js, NestJS, Express
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, Git, CI/CD, Kubernetes (basic)
+- **Mobile Development**: React Native, Flutter (learning)
+- **Testing**: Jest, Cypress, React Testing Library
+
+I have a proven track record of working on diverse projects, from frontend-heavy applications to robust backend architectures. My projects focus on performance, user experience, and code scalability, often integrating cloud services and containerization for efficient deployment.
 
 ---
 
-### 💫About Me :
-<div align="center" >
-    <h3> - 🔭 At the moment I'm working with Web and Mobile </h3>
-<h3>- 🌱 I'm currently learning TS and Flutter</h3>
-<h3>- 📫 How to reach me: samuelaoliveiraramos@gmail.com</h3>
-<h3>- 😄 Pronouns: He/His</h3>
-<h3>- ⚡ Fun fact: "The original name for the search engine Google was Backrub. It was renamed Google after the googol, which is the number one followed by 100 zeros."</h3>
-</div>
+## 🚀 Current Focus:
 
-<br/>
-  
-  ---
-  
-  ### 👥Social networks
-  
- <div align="center" >
-      <a href="https://www.youtube.com/channel/UC0VcrNBxasnCX8Oee38BsnA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/samuelramos.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/FkMQeTrrj6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:samuelaoliveiraramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuelaoramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5534988676166" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/samuel.ramos.00" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>
+- **Building scalable mobile-first applications**
+- **Developing TypeScript and Flutter projects**
+- **Learning more about advanced DevOps practices**
 
 ---
-  
-### 💻Tech Stack
 
- <div align="center">
-  
+## 📫 How to Reach Me:
+
+- **Email**: [samuelaoliveiraramos@gmail.com](mailto:samuelaoliveiraramos@gmail.com)
+- **LinkedIn**: [linkedin.com/in/samuelaoramos](https://www.linkedin.com/in/samuelaoramos/)
+- **Instagram**: [samuelramos.dev](https://www.instagram.com/samuelramos.dev/)
+- **Discord**: [samuelrms#1234](https://discord.gg/FkMQeTrrj6)
+
+---
+
+## 🛠️ Tech Stack:
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    
-    
-    
-</div>
 
 ---
 
-### 📊GitHub Stats :
-  
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=samuelrms&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=samuelrms&theme=merko&hide_border=false)
-<img height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="samuelrms" />
-</div>
+## 💻 My GitHub Stats:
 
----
-  
-### 🏆GitHub Trophies
-
-<div align="center">
-    
-![trophy](https://github-profile-trophy.vercel.app/?username=samuelrms&theme=radical)
-    
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelrms&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrms&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="left">
-  <h3><a href="https://skyline.github.com/samuelrms/2022">https://skyline.github.com/samuelrms/2022</a></h3>
-</div>
+## 🏆 GitHub Achievements:
 
-  
-  ---
-  
-  <div align="center">
-      <img src="https://github.com/samuelrms/samuelrms/blob/output/github-contribution-grid-snake.svg">
-  </div>
-  
-  ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelrms&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌱 What I’m Learning:
+
+- **Flutter**: Exploring the cross-platform mobile development framework.
+- **Advanced TypeScript**: Deepening my knowledge of type safety and advanced design patterns.
+- **DevOps**: Improving my skills in Docker, Kubernetes, and CI/CD pipelines.
+
+---
+
+## 🎯 Fun Fact:
+
+**Did you know?** Google was initially named "Backrub" before the name was changed to reference the mathematical term "googol," which represents the number 1 followed by 100 zeros.
+
+---
+
+Feel free to connect with me on any of my social platforms. Let's collaborate and build something amazing!
