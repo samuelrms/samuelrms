@@ -5,10 +5,17 @@
 
 I am a highly skilled full-stack developer with a passion for building modern, scalable web and mobile applications. With deep knowledge in **JavaScript, TypeScript, React, Node.js, and Docker**, I strive to deliver high-performance, clean, and maintainable code. Currently expanding my expertise in **TypeScript** and **Flutter** to further enhance my contributions to the tech world.
 
-![Profile Image](https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92615688/182064833-b06a509f-ea3b-467d-bc20-b9beba35619d.png" alt="Profile Image"/>
+</div>
+
+<div align="center">
+  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=samuelrms&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/samuelrms) 
 [![GitHub Followers](https://img.shields.io/github/followers/samuelrms?label=Followers&style=social)](https://github.com/samuelrms)
+
+</div>
 
 ---
 
