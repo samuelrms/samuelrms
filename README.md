@@ -46,6 +46,7 @@ I have a proven track record of working on diverse projects, from frontend-heavy
 - **LinkedIn**: [linkedin.com/in/samuelaoramos](https://www.linkedin.com/in/samuelaoramos/)
 - **Instagram**: [samuelramos.dev](https://www.instagram.com/samuelramos.dev/)
 - **Discord**: [samuelrms#1234](https://discord.gg/FkMQeTrrj6)
+- **Portifolio**: [samuelramos.dev](https://samuelramos.dev)
 
 ---
 
