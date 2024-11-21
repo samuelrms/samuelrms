@@ -5,6 +5,9 @@
 
 I am a highly skilled full-stack developer with a passion for building modern, scalable web and mobile applications. With deep knowledge in **JavaScript, TypeScript, React, Node.js, and Docker**, I strive to deliver high-performance, clean, and maintainable code.
 
+![new_avatar](https://github.com/user-attachments/assets/91f51809-50e1-4260-b273-f8f1742784d4)
+
+
 <div align="center">
   
 
