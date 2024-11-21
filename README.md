@@ -106,3 +106,6 @@ I have a proven track record of working on diverse projects, from frontend-heavy
 ---
 
 Feel free to connect with me on any of my social platforms. Let's collaborate and build something amazing!
+
+![octocat-1727556417446](https://github.com/user-attachments/assets/b41efe79-0cc7-4c94-87a3-025930082da6)
+
