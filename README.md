@@ -78,7 +78,7 @@ I have a proven track record of working on diverse projects, from frontend-heavy
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelrms&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrms&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=donut-vertical&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ I have a proven track record of working on diverse projects, from frontend-heavy
 ## 🏆 GitHub Achievements:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuelrms&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelrms&theme=radical&no-frame=true&margin-w=15&layout=donut-vertical" alt="GitHub Trophies" />
 </p>
 
 ---
