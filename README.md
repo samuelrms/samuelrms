@@ -13,6 +13,7 @@ I am a highly skilled full-stack developer with a passion for building modern, s
 
 [![Profile Views](https://komarev.com/ghpvc/?username=samuelrms&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/samuelrms) 
 [![GitHub Followers](https://img.shields.io/github/followers/samuelrms?label=Followers&style=social)](https://github.com/samuelrms)
+[![wakatime](https://wakatime.com/badge/user/47ec2352-4b0b-4d3c-b270-5649937dd18b.svg)](https://wakatime.com/@47ec2352-4b0b-4d3c-b270-5649937dd18b)
 
 </div>
 
