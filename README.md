@@ -75,12 +75,11 @@ I have a proven track record of working on diverse projects, from frontend-heavy
 
 ## 💻 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelrms&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrms&theme=radical" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=donut-vertical&theme=radical" alt="Top Languages" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelrms&theme=radical" alt="Harlok's WakaTime stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelrms&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /><br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samuelrms&theme=radical&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrms&layout=donut-vertical&theme=radical&hide_border=true" alt="Top Languages" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelrms&theme=radical&hide_border=true" alt="Harlok's WakaTime stats" />
+
 
 ---
 
