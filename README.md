@@ -20,14 +20,14 @@ Sou fundador da **Nzila**, estúdio enxuto de software sob medida. Escrevo em Go
 ## Como eu trabalho
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2E2925','primaryTextColor':'#F4EFE8','primaryBorderColor':'#3A3430','lineColor':'#C4552F','edgeLabelBackground':'#1A1714','textColor':'#F4EFE8'}}}%%
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#2E2925", "primaryTextColor": "#F4EFE8", "primaryBorderColor": "#3A3430", "lineColor": "#C4552F", "edgeLabelBackground": "#1A1714", "textColor": "#F4EFE8"}}}%%
 flowchart TB
     A["Conversa<br/>20 minutos, sem compromisso"] --> B["Diagnóstico<br/>1 a 2 semanas, preço fechado"]
     B --> C{"Faz sentido<br/>seguir?"}
-    C -->|não| R["O relatório e o plano<br/>ficam com você"]
-    C -->|sim| D["Projeto fechado<br/>módulos independentes"]
+    C -->|"não"| R["O relatório e o plano<br/>ficam com você"]
+    C -->|"sim"| D["Projeto fechado<br/>módulos independentes"]
     D --> E["Repasse<br/>código e documentação<br/>no seu repositório"]
-    E -.->|opcional| F["Evolução e suporte<br/>mensal"]
+    E -.->|"opcional"| F["Evolução e suporte<br/>mensal"]
 ```
 
 O diagnóstico mostra o que existe, onde estão os gargalos e quanto custa resolver. Escopo, prazo e preço ficam por escrito antes de qualquer linha de código.
