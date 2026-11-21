@@ -20,7 +20,7 @@ Sou fundador da **Nzila**, estúdio enxuto de software sob medida. Escrevo em Go
 ## Como eu trabalho
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#2E2925", "primaryTextColor": "#F4EFE8", "primaryBorderColor": "#3A3430", "lineColor": "#C4552F", "edgeLabelBackground": "#1A1714", "textColor": "#F4EFE8"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#2E2925", "primaryTextColor": "#F4EFE8", "primaryBorderColor": "#3A3430", "lineColor": "#C4552F", "edgeLabelBackground": "#1A1714", "textColor": "#F4EFE8", "fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "15px"}, "htmlLabels": false, "flowchart": {"htmlLabels": false, "padding": 16, "wrappingWidth": 300}}}%%
 flowchart TB
     A["Conversa<br/>20 minutos, sem compromisso"] --> B["Diagnóstico<br/>1 a 2 semanas, preço fechado"]
     B --> C{"Faz sentido<br/>seguir?"}
