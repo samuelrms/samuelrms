@@ -79,7 +79,7 @@ As plataformas Nzila trazem a **Zila**, e o Chairman traz o **Nico**: IAs integr
 
 Disponível para diagnóstico técnico e projetos fechados em integração, telecom e sistemas críticos. Escreva contando o problema; eu respondo com o próximo passo.
 
-[E-mail](mailto:samuelaoliveiraramos@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samuelaoramos/) · [Instagram](https://www.instagram.com/samuelramos.tech/) · [samuelramos.dev](https://samuelramos.dev)
+[E-mail](mailto:samuelrmsdev@gmail.com) · [samuelramos.dev](https://samuelramos.dev)
 
 <details>
 <summary>English</summary>
@@ -94,7 +94,7 @@ Founder of **Nzila**, a lean custom-software studio, and partner at [WaveHub](ht
 - **Telecom:** SMS, RCS, PABX, bulk Asterisk provisioning
 - **Critical systems:** offline-first embedded services, deterministic replay, idempotent payments
 
-Open to technical assessments and fixed-scope projects. [Email me](mailto:samuelaoliveiraramos@gmail.com) with the problem.
+Open to technical assessments and fixed-scope projects. [Email me](mailto:samuelrmsdev@gmail.com) with the problem.
 
 </details>
 
